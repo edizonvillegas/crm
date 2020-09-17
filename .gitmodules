@@ -1,0 +1,4 @@
+[submodule "src/app/crm-dashboard"]
+	path = src/app/crm-dashboard
+	url = https://github.com/edizonvillegas/crm/tree/master/src/app/crm-dashboard.git
+	branch = master
